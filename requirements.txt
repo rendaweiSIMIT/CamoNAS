@@ -1,0 +1,13 @@
+Pillow == 8.1.2
+addict == 2.4.0
+albumentations == 1.0.0
+matplotlib == 3.4.2
+numpy == 1.19.2
+opencv_python_headless == 4.5.1.48
+openpyxl == 3.0.7
+pysodmetrics == 1.2.4
+scipy == 1.6.2
+timm == 0.4.12
+tqdm == 4.59.0
+ttach == 0.0.3
+yapf == 0.31.0
