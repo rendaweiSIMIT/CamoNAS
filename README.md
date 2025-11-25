@@ -48,13 +48,14 @@ python train.py
 The four COD testing dataset results can be downloaded here:
 
 - **CHAMELEON**  
-  [Download Link](https://drive.google.com/file/d/15vKY7iHA_EwCzZGIsPIA65Ia-Kb5vyf6/view?usp=sharing)
+  [Download Link](https://drive.google.com/file/d/1qpxfPih8Zt9fc0ZXP1wu8mODPOb0zkmM/view?usp=sharing)
 
 - **CAMO**  
-  [Download Link](https://drive.google.com/file/d/1MtR1hOpM1arYJcvx9tgcBHbvwinYEPmS/view?usp=sharing)
-
-- **COD10K**  
   [Download Link](https://drive.google.com/file/d/1nlyRV5KbEjWcTk_bHGZfk6yJntsBilg2/view?usp=sharing)
 
+- **COD10K**  
+  [Download Link](https://drive.google.com/file/d/1MtR1hOpM1arYJcvx9tgcBHbvwinYEPmS/view?usp=sharing)
+  
 - **NC4K**  
-  [Download Link](https://drive.google.com/file/d/1qpxfPih8Zt9fc0ZXP1wu8mODPOb0zkmM/view?usp=sharing)
+  [Download Link](https://drive.google.com/file/d/15vKY7iHA_EwCzZGIsPIA65Ia-Kb5vyf6/view?usp=sharing)
+
